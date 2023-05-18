@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Aram Weber</h1>
-<h3 align="center">A passionate frontend developer from Aujstria</h3>
+<h3 align="center">A passionate developer from Austria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aramw&label=Profile%20views&color=0e75b6&style=flat" alt="aramw" /> </p>
